@@ -20,7 +20,7 @@ $(call inherit-product, device/essential/mata/device.mk)
 
 # Device identifiers
 PRODUCT_DEVICE := mata
-PRODUCT_NAME := lineage_mata
+PRODUCT_NAME := omni_mata
 PRODUCT_BRAND := essential
 PRODUCT_MODEL := PH-1
 PRODUCT_MANUFACTURER := Essential Products
